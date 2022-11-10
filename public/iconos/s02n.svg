@@ -1,0 +1,26 @@
+<svg id="s02d" xmlns="http://www.w3.org/2000/svg" width="74.38" height="74" viewBox="0 0 74.38 74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #788c8f;
+      }
+
+      .cls-2 {
+        fill: #fffbf8;
+      }
+
+      .cls-3 {
+        fill: #90a9b1;
+      }
+    </style>
+  </defs>
+  <title>s02n</title>
+  <path class="cls-1" d="M934.13,220.8s-23.52,1-16,24.87c0,0,0,4.15,10.69,9.33H979s13.89-4.15,11.76-20.73c0,0-4.28-13.47-18.17-10.36,0,0,3.2-19.69-17.11-21.76S934.13,220.8,934.13,220.8Z" transform="translate(-916.62 -202)"/>
+  <circle class="cls-2" cx="35.38" cy="48" r="3"/>
+  <circle class="cls-2" cx="49.38" cy="48" r="3"/>
+  <circle class="cls-3" cx="22.38" cy="60" r="3"/>
+  <circle class="cls-3" cx="36.38" cy="60" r="3"/>
+  <circle class="cls-3" cx="27.38" cy="71" r="3"/>
+  <circle class="cls-3" cx="43.38" cy="71" r="3"/>
+  <circle class="cls-3" cx="51.38" cy="60" r="3"/>
+</svg>

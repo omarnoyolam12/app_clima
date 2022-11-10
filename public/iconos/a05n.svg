@@ -1,0 +1,29 @@
+<svg id="a01n" xmlns="http://www.w3.org/2000/svg" width="74.68" height="75" viewBox="0 0 74.68 75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #baccd2;
+      }
+
+      .cls-2 {
+        fill: #02758d;
+      }
+
+      .cls-3 {
+        fill: #85bfcd;
+      }
+
+      .cls-4 {
+        fill: #fed046;
+      }
+    </style>
+  </defs>
+  <title>a01n</title>
+  <path class="cls-1" d="M178.5,104h8s-3-9,5-10h39s8,2,2,10c0,0-1,4,2,4,0,0,11-3,9-17s-17-12-17-12,1-18-15-19-19,10-20,15C191.5,75,167.5,80,178.5,104Z" transform="translate(-175.61 -50)"/>
+  <rect class="cls-2" x="13.39" y="49" width="43" height="5" rx="2.5"/>
+  <rect class="cls-2" x="0.39" y="60" width="44" height="5" rx="2.5"/>
+  <rect class="cls-2" x="6.39" y="70" width="45" height="5" rx="2.5"/>
+  <rect class="cls-2" x="47.39" y="60" width="10" height="5" rx="2.5"/>
+  <path class="cls-3" d="M236,50s-13,0-13,8c0,0,10,5,9,16,0,0,7,0,9,4,0,0,12.83-7,7-7C246,71,229,67,236,50Z" transform="translate(-175.61 -50)"/>
+  <polygon class="cls-4" points="73.22 16.63 70.88 15.39 68.54 16.62 68.99 14.01 67.1 12.16 69.72 11.79 70.9 9.42 72.06 11.79 74.68 12.18 72.78 14.02 73.22 16.63"/>
+</svg>

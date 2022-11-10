@@ -1,0 +1,16 @@
+<svg id="c01n" xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2eb8c;
+      }
+
+      .cls-2 {
+        fill: #ebe08c;
+      }
+    </style>
+  </defs>
+  <title>c01n</title>
+  <circle class="cls-1" cx="36" cy="36" r="36"/>
+  <path class="cls-2" d="M465.81,57.36a36,36,0,0,1-31.62,63.28,36,36,0,1,0,31.62-63.28Z" transform="translate(-420 -56)"/>
+</svg>

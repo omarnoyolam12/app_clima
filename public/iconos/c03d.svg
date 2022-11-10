@@ -1,0 +1,21 @@
+<svg id="c03d" xmlns="http://www.w3.org/2000/svg" width="122.37" height="74.03" viewBox="0 0 122.37 74.03">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fceb0f;
+      }
+
+      .cls-2 {
+        fill: #d9d9d9;
+      }
+
+      .cls-3 {
+        fill: #b2b2b2;
+      }
+    </style>
+  </defs>
+  <title>c03d</title>
+  <circle class="cls-1" cx="59.87" cy="30.53" r="30.5"/>
+  <path class="cls-2" d="M838,77s9-21,27-20,25,17,25,17,18,0,19,19-21,19-21,19H831s-16-4-13-23C818,89,822,77,838,77Z" transform="translate(-817.63 -56.97)"/>
+  <path class="cls-3" d="M867.73,95.39S876.89,74,895.2,75s25.44,17.3,25.44,17.3,18.31,0,19.33,19.33S918.6,131,918.6,131h-58s-16.28-4.07-13.23-23.4C847.38,107.6,851.45,95.39,867.73,95.39Z" transform="translate(-817.63 -56.97)"/>
+</svg>

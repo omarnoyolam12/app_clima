@@ -1,0 +1,19 @@
+<svg id="f01d" xmlns="http://www.w3.org/2000/svg" width="74.91" height="79.64" viewBox="0 0 74.91 79.64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #798d90;
+      }
+
+      .cls-2 {
+        fill: #4ec8dd;
+      }
+    </style>
+  </defs>
+  <title>r06d</title>
+  <path class="cls-1" d="M196.72,219.53S173,220.6,180.58,245.36c0,0,0,4.31,10.76,9.69h50.59s14-4.3,11.84-21.53c0,0-4.3-14-18.3-10.76,0,0,3.23-20.46-17.22-22.61S196.72,219.53,196.72,219.53Z" transform="translate(-179.09 -200)"/>
+  <rect class="cls-2" x="195" y="256" width="7" height="23" rx="3.5" transform="translate(4.18 -265.26) rotate(33.96)"/>
+  <rect class="cls-2" x="211" y="256" width="7" height="23" rx="3.5" transform="translate(6.91 -274.19) rotate(33.96)"/>
+  <rect class="cls-2" x="226" y="258" width="7" height="23" rx="3.5" transform="translate(10.59 -282.23) rotate(33.96)"/>
+  <rect class="cls-2" x="226" y="257" width="7" height="23" rx="3.5" transform="translate(10.03 -282.4) rotate(33.96)"/>
+</svg>

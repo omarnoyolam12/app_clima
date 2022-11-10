@@ -1,0 +1,21 @@
+<svg id="c02n" xmlns="http://www.w3.org/2000/svg" width="90.03" height="72" viewBox="0 0 90.03 72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2eb8c;
+      }
+
+      .cls-2 {
+        fill: #ebe08c;
+      }
+
+      .cls-3 {
+        fill: #b2b2b2;
+      }
+    </style>
+  </defs>
+  <title>c02n</title>
+  <circle class="cls-1" cx="36" cy="36" r="36"/>
+  <path class="cls-2" d="M743.81,57.36a36,36,0,0,1-31.62,63.28,36,36,0,1,0,31.62-63.28Z" transform="translate(-698 -56)"/>
+  <path class="cls-3" d="M728.17,85.5s7.59-17.69,22.75-16.85S772,83,772,83s15.17,0,16,16-17.7,16-17.7,16h-48s-13.48-3.37-10.95-19.38C711.32,95.62,714.69,85.5,728.17,85.5Z" transform="translate(-698 -56)"/>
+</svg>
