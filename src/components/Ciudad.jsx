@@ -37,7 +37,7 @@ const Ciudad = () => {
                     const lugar = ciudadesGuardadas[indexCiudad];
                     const {ciudad, codigo} = lugar;
 
-                    const url = `http://api.weatherbit.io/v2.0/current?city=${ciudad}&country=${codigo}&lang=es&key=${import.meta.env.VITE_API_KEY}`;
+                    const url = `https://api.weatherbit.io/v2.0/current?city=${ciudad}&country=${codigo}&lang=es&key=${import.meta.env.VITE_API_KEY}`;
 
                     const {data: {data: resultado}} = await axios(url);
 

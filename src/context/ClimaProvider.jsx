@@ -99,7 +99,7 @@ const ClimaProvider = ({children})=>{
             const ciudad = busqueda[0].replace(/\s+/g, '+');
             const pais = busqueda[1].replace(/\s+/g, '+');
 
-            const urlActual = `http://api.weatherbit.io/v2.0/current?city=${ciudad},${pais}&lang=es&key=${import.meta.env.VITE_API_KEY}`
+            const urlActual = `https://api.weatherbit.io/v2.0/current?city=${ciudad},${pais}&lang=es&key=${import.meta.env.VITE_API_KEY}`
 
             const urlPronosticos =`https://api.weatherbit.io/v2.0/forecast/daily?city=${ciudad},${pais}&lang=es&key=${import.meta.env.VITE_API_KEY}`
 
